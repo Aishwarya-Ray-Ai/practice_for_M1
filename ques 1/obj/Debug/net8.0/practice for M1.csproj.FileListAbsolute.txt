@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\practice for M1\bin\Debug\net8.0\practice for M1.exe
+C:\Users\DELL\source\repos\practice for M1\bin\Debug\net8.0\practice for M1.deps.json
+C:\Users\DELL\source\repos\practice for M1\bin\Debug\net8.0\practice for M1.runtimeconfig.json
+C:\Users\DELL\source\repos\practice for M1\bin\Debug\net8.0\practice for M1.dll
+C:\Users\DELL\source\repos\practice for M1\bin\Debug\net8.0\practice for M1.pdb
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.dll
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\refint\practice for M1.dll
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.pdb
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\practice for M1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\practice for M1\obj\Debug\net8.0\ref\practice for M1.dll

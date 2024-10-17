@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ques 5\bin\Debug\net8.0\ques 5.exe
+C:\Users\DELL\source\repos\ques 5\bin\Debug\net8.0\ques 5.deps.json
+C:\Users\DELL\source\repos\ques 5\bin\Debug\net8.0\ques 5.runtimeconfig.json
+C:\Users\DELL\source\repos\ques 5\bin\Debug\net8.0\ques 5.dll
+C:\Users\DELL\source\repos\ques 5\bin\Debug\net8.0\ques 5.pdb
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.dll
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\refint\ques 5.dll
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.pdb
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ques 5.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ques 5\obj\Debug\net8.0\ref\ques 5.dll
